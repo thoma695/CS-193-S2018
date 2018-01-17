@@ -37,12 +37,12 @@ cd ~/cs193lab1
 # -----------------
 # Task 1 Answer
 # -----------------
-
+rm -r human
 
 # -----------------
 # Task 2 Answer
 # -----------------
-
+mkdir -p mouse/sounds mouse/famousmice
 
 # -----------------
 # Task 3 Answer
@@ -57,7 +57,7 @@ cd ~/cs193lab1/dog
 # -----------------
 # Task 4 Answer
 # -----------------
-
+mv famous\ cows famous\ dogs
 
 
 # ignore
@@ -67,7 +67,7 @@ cd ~/cs193lab1/fox/sounds
 # -----------------
 # Task 5 Answer
 # -----------------
-
+cp ding\ ding\ ding ding\ ding\ ding\ ding
 
 
 # ignore
